@@ -1,0 +1,2 @@
+Nombre: Diego
+Edad: 1 año
