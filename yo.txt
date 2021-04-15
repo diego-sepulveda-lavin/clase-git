@@ -1,4 +1,4 @@
 Nombre: Diego
-Edad: 2 años
+Edad: 33 años
 Pais: Chile
 Pais: China
